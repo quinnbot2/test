@@ -1,0 +1,6 @@
+C:\work\dquinn_Jankbook_9845\git-test\git-test\bin\Debug\git-test.exe.config
+C:\work\dquinn_Jankbook_9845\git-test\git-test\bin\Debug\git-test.exe
+C:\work\dquinn_Jankbook_9845\git-test\git-test\bin\Debug\git-test.pdb
+C:\work\dquinn_Jankbook_9845\git-test\git-test\obj\Debug\git-test.csprojResolveAssemblyReference.cache
+C:\work\dquinn_Jankbook_9845\git-test\git-test\obj\Debug\git-test.exe
+C:\work\dquinn_Jankbook_9845\git-test\git-test\obj\Debug\git-test.pdb
