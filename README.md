@@ -10,3 +10,4 @@ Yep thats what I'm doing
 
 Lets just put some stuff in so we can see a longer change history for a file
 
+Now lets change two files!
