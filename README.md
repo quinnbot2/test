@@ -1,5 +1,5 @@
-# Git Test Foo
-https://ci.appveyor.com/api/projects/status/am2g49e6b75eap7i?svg=true
+# Git Test Foo 
+[![Build Status](https://ci.appveyor.com/api/projects/status/am2g49e6b75eap7i?svg=true)](https://ci.appveyor.com/api/projects/status/am2g49e6b75eap7i?svg=true)
 
 Testing some shit out yay!
 
